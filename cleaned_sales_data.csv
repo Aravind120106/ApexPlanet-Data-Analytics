@@ -1,0 +1,8 @@
+OrderID,Product,Quantity,Price,City
+101,Laptop,2.0,50000.0,Hyderabad
+102,Mouse,5.0,500.0,Mumbai
+103,Keyboard,3.0,1500.0,Delhi
+104,Monitor,1.0,8000.0,Hyderabad
+105,Laptop,2.5,50000.0,Chennai
+106,Mouse,4.0,4750.0,Mumbai
+107,Keyboard,2.0,1500.0,Delhi

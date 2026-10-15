@@ -1,0 +1,6 @@
+Column,Description,Data Type
+OrderID,Unique identifier for each order,Integer
+Product,Name of the product purchased,Text
+Quantity,Number of units ordered,Numeric
+Price,Price of the product,Numeric
+City,City where the order was placed,Text
